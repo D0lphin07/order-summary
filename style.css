@@ -22,7 +22,6 @@ main{
     flex-direction: column;
     background-color: white;
     border-radius: 20px;
-    border: 1px solid red;
     max-width: 400px;
 }
 
